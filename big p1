@@ -84,7 +84,6 @@ cache_es/
 
 # Serverless directories
 .serverless/
-
 # FuseBox cache
 .fusebox/
 
