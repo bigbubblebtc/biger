@@ -10,9 +10,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*d
 # Runtime data
 
 *.pid
-*.seed
-for instrumented libs generateyu used by tools like istanbul
-coverage
+*.seedd
 .nyc_outpu
 
 # Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
