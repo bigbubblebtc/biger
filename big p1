@@ -70,7 +70,7 @@ caches/
 # Serverless directories
 .serverless/
 # FuseBox cache
-.fusebox/
+.fusebs
 
 # DynamoDB Local files
 .dynamodb/
